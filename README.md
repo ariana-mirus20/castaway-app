@@ -1,15 +1,9 @@
-# A starter project for React/Redux
-
-> A minimalistic React/Redux starter project
+# Castaway!
 
 To use:
 
-* Fork this repo
-* Rename your repo according to the app you're building
-
 ```sh
-git clone https://github.com/[your-org]/[your-app].git
-cd [your-app] && npm i
+npm install
 ```
 
 This is the structure of this boilerplate:
@@ -31,6 +25,7 @@ This is the structure of this boilerplate:
 ├── public
 │   ├── index.html
 │   └── main.css
+|   |__ images
 ├── server
 │   ├── index.js
 │   └── server.js
