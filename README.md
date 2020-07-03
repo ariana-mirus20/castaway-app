@@ -1,12 +1,14 @@
 # Castaway!
 
+All your extras casting needs taken care of with one easy app!
+
 To use:
 
 ```sh
 npm install
 ```
 
-This is the structure of this boilerplate:
+Current file structure:
 
 ```sh
 .
